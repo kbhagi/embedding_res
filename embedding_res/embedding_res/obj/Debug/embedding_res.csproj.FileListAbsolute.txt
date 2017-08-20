@@ -1,0 +1,7 @@
+C:\Projects\embedding_res\embedding_res\bin\Debug\WordList.txt
+C:\Projects\embedding_res\embedding_res\bin\Debug\embedding_res.exe.config
+C:\Projects\embedding_res\embedding_res\bin\Debug\embedding_res.exe
+C:\Projects\embedding_res\embedding_res\bin\Debug\embedding_res.pdb
+C:\Projects\embedding_res\embedding_res\obj\Debug\embedding_res.exe
+C:\Projects\embedding_res\embedding_res\obj\Debug\embedding_res.pdb
+C:\Projects\embedding_res\embedding_res\obj\Debug\embedding_res.csprojResolveAssemblyReference.cache
